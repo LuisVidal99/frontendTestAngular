@@ -1,3 +1,3 @@
 export const enviroment = {
-    workerURL: 'http://localhost3000/worker'
+    workerURL: 'http://3.136.67.116:3000/worker'
 }
